@@ -1,0 +1,11 @@
+Para visualizar os códigos, use os seguintes comandos:
+
+cd \(nome_da_pasta)\ 
+        
+    ou escreva "cd" e aperte no botão "TAB"
+
+em seguida: 
+
+streamlit run .\(nome_do_aquivo) 
+    
+    ou escreva "streamlit run" e aperte no botão "TAB"
