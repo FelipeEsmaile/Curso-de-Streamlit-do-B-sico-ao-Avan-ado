@@ -1,0 +1,5 @@
+[theme]
+primaryColor = "#FFFF00"    # elementos interativos
+backgroundColor = "#D3D3D3" # cor de fundo
+textColor = "#000000"       # cor do texto
+font = "sans serif"
