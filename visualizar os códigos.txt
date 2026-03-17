@@ -9,3 +9,7 @@ em seguida:
 streamlit run .\(nome_do_aquivo) 
     
     ou escreva "streamlit run" e aperte no botão "TAB"
+
+Para rodar no Codespace:
+
+        python -m streamlit run projeto_teste/projeto.py
